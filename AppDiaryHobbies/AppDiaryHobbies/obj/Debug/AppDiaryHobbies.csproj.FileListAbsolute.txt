@@ -1,0 +1,223 @@
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\AppDiaryHobbies.dll
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\AppDiaryHobbies.pdb
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\AppDiaryHobbies.AppDiaryHobbies.apk
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\AppDiaryHobbies.AppDiaryHobbies-Signed.apk
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\MySql.Data.CF.dll
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\AppDiaryHobbies.csprojResolveAssemblyReference.cache
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\AppDiaryHobbies.dll
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\AppDiaryHobbies.pdb
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\android\bin\AppDiaryHobbies.AppDiaryHobbies.apk
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutregistro.xml
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\main.xml
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\values\strings.xml
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\drawable\icon.png
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\R.cs.flag
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\uploadflags.txt
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\AppDiaryHobbies.dll.mdb
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\android\assets\AppDiaryHobbies.dll.mdb
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layouttareasinicio.xml
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutlogueo.xml
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutmodalperfil.xml
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\listtareasdesign.xml
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutmodalborrar.xml
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutnuevatarea.xml
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\AppDiaryHobbies.dll
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\AppDiaryHobbies.pdb
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\AppDiaryHobbies.AppDiaryHobbies.apk
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\AppDiaryHobbies.AppDiaryHobbies-Signed.apk
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\MySql.Data.CF.dll
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\AppDiaryHobbies.csproj.CoreCompileInputs.cache
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\AppDiaryHobbies.dll
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\AppDiaryHobbies.pdb
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\android\bin\AppDiaryHobbies.AppDiaryHobbies.apk
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutregistro.xml
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layouttareasinicio.xml
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutlogueo.xml
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutmodalperfil.xml
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\listtareasdesign.xml
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutmodalborrar.xml
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutnuevatarea.xml
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutanadirdireccion.xml
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutverdatostarea.xml
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutnuevaempresa.xml
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutanadirusuario.xml
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\listusuariosdesign.xml
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutmodalborrarusuarios.xml
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutmodificarusuario.xml
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutagregarcliente.xml
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\main.xml
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\values\strings.xml
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\drawable\icon.png
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\R.cs.flag
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\uploadflags.txt
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutconsultainformes.xml
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\listinformesdesign.xml
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\AppDiaryHobbies.dll.mdb
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\android\assets\AppDiaryHobbies.dll.mdb
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\AppDiaryHobbies.csprojResolveAssemblyReference.cache
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\AppDiaryHobbies.dll
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\AppDiaryHobbies.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\AppDiaryHobbies.AppDiaryHobbies.apk
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\AppDiaryHobbies.AppDiaryHobbies-Signed.apk
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\MySql.Data.CF.dll
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\AppDiaryHobbies.csproj.CoreCompileInputs.cache
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\AppDiaryHobbies.csproj.CopyComplete
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\AppDiaryHobbies.dll
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\AppDiaryHobbies.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\android\bin\AppDiaryHobbies.AppDiaryHobbies.apk
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutregistro.xml
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layouttareasinicio.xml
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutlogueo.xml
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutmodalperfil.xml
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\listtareasdesign.xml
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutmodalborrar.xml
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutnuevatarea.xml
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutanadirdireccion.xml
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutverdatostarea.xml
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutnuevaempresa.xml
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutanadirusuario.xml
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\listusuariosdesign.xml
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutmodalborrarusuarios.xml
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutmodificarusuario.xml
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutagregarcliente.xml
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutconsultainformes.xml
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\listinformesdesign.xml
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\main.xml
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\values\strings.xml
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\drawable\icon.png
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\R.cs.flag
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\R.txt
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\uploadflags.txt
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\Microsoft.CSharp.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\Mono.Android.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\mscorlib.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\System.Core.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\System.Data.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\System.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\System.Xml.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\System.Xml.Linq.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\System.ComponentModel.Composition.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\System.Net.Http.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\System.Runtime.Serialization.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\System.ServiceModel.Internals.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\System.Numerics.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\System.Transactions.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\Mono.Security.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\linksrc\Microsoft.CSharp.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\linksrc\Mono.Android.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\linksrc\mscorlib.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\linksrc\System.Core.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\linksrc\System.Data.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\linksrc\System.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\linksrc\System.Xml.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\linksrc\System.Xml.Linq.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\linksrc\System.Net.Http.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\linksrc\System.Numerics.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\linksrc\System.Transactions.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\linksrc\Mono.Security.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\linksrc\AppDiaryHobbies.dll.mdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\AppDiaryHobbies.csprojAssemblyReference.cache
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\AppDiaryHobbies.dll.mdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\android\assets\AppDiaryHobbies.dll.mdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\android\assets\Microsoft.CSharp.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\android\assets\Mono.Android.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\android\assets\mscorlib.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\android\assets\System.Core.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\android\assets\System.Data.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\android\assets\System.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\android\assets\System.Xml.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\android\assets\System.Xml.Linq.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\android\assets\System.Net.Http.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\android\assets\System.Numerics.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\android\assets\System.Transactions.pdb
+E:\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\AppDiaryHobbies.dll
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\AppDiaryHobbies.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\AppDiaryHobbies.AppDiaryHobbies.apk
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\AppDiaryHobbies.AppDiaryHobbies-Signed.apk
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\MySql.Data.CF.dll
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\AppDiaryHobbies.csprojAssemblyReference.cache
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\AppDiaryHobbies.csproj.CoreCompileInputs.cache
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\AppDiaryHobbies.csproj.CopyComplete
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\AppDiaryHobbies.dll
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\AppDiaryHobbies.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\android\bin\AppDiaryHobbies.AppDiaryHobbies.apk
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutregistro.xml
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layouttareasinicio.xml
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutlogueo.xml
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutmodalperfil.xml
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\listtareasdesign.xml
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutmodalborrar.xml
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutnuevatarea.xml
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutanadirdireccion.xml
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutverdatostarea.xml
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutnuevaempresa.xml
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutanadirusuario.xml
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\listusuariosdesign.xml
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutmodalborrarusuarios.xml
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutmodificarusuario.xml
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutagregarcliente.xml
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\layoutconsultainformes.xml
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\listinformesdesign.xml
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\layout\main.xml
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\values\strings.xml
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\res\drawable\icon.png
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\R.cs.flag
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\R.txt
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\uploadflags.txt
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\Microsoft.CSharp.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\Mono.Android.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\Mono.Security.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\mscorlib.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\System.Core.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\System.Data.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\System.Net.Http.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\System.Numerics.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\System.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\System.Transactions.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\System.Xml.Linq.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\System.Xml.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\AppDiaryHobbies.dll.mdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\android\assets\AppDiaryHobbies.dll.mdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\android\assets\Microsoft.CSharp.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\android\assets\System.Core.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\android\assets\System.Data.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\android\assets\System.Numerics.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\android\assets\System.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\android\assets\System.Transactions.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\linksrc\AppDiaryHobbies.dll.mdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\linksrc\Microsoft.CSharp.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\linksrc\System.Core.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\linksrc\System.Data.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\linksrc\System.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\bin\Debug\AppDiaryHobbies.dll
+C:\Users\G2\Desktop\PROYECTO FINAL GRADO\AppDiaryHobbies\AppDiaryHobbies\obj\Debug\linksrc\AppDiaryHobbies.dll.mdb

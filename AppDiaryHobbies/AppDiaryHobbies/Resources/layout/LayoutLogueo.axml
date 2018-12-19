@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_blue_light">
+    <ImageButton
+        android:src="@android:drawable/ic_menu_revert"
+        android:layout_width="77.5dp"
+        android:layout_height="59.0dp"
+        android:layout_marginLeft="0.5dp"
+        android:layout_marginTop="1.0dp"
+        android:id="@+id/btnAtrasLogueo"
+        android:background="@android:color/holo_blue_dark" />
+    <TextView
+        android:text="@string/main.txtTituloLogueo.text"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="44.5dp"
+        android:id="@+id/txtTituloApp"
+        android:textSize="40dp"
+        android:layout_marginLeft="90dp"
+        android:layout_marginTop="16.5dp"
+        android:fontFamily="sans-serif-medium"
+        android:textStyle="bold"
+        android:textColor="@android:color/background_light" />
+    <TextView
+        android:text="Nick:"
+        android:layout_marginTop="50dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView1" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtNickLoguear" />
+    <TextView
+        android:text="Contraseña:"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2" />
+    <EditText
+        android:inputType="textPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtPasswordLogueo" />
+    <Button
+        android:text="LOGUEAR"
+        android:layout_width="163.5dp"
+        android:layout_height="39.0dp"
+        android:layout_marginLeft="110dp"
+        android:id="@+id/btnLoguear"
+        android:background="@android:color/holo_blue_dark"
+        android:layout_marginTop="20.0dp" />
+</LinearLayout>

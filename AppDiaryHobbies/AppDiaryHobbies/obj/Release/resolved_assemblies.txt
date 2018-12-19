@@ -1,0 +1,15 @@
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\android\assets\AppDiaryHobbies.dll
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\android\assets\Java.Interop.dll
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\android\assets\Microsoft.CSharp.dll
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\android\assets\Mono.Android.dll
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\android\assets\mscorlib.dll
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\android\assets\System.Core.dll
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\android\assets\System.Data.dll
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\android\assets\System.dll
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\android\assets\System.Xml.dll
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\android\assets\MySql.Data.CF.dll
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\android\assets\System.Runtime.Serialization.dll
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\android\assets\System.Numerics.dll
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\android\assets\Mono.Security.dll
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\android\assets\I18N.dll
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\android\assets\I18N.West.dll

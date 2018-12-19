@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:background="@android:color/holo_blue_light">
+        <TextView
+            android:text="#T000X"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="96.5dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/txIdTarea"
+            android:layout_marginLeft="133.5dp" />
+        <TableLayout
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tableLayout1">
+            <TableRow
+                android:id="@+id/tableRow1">
+                <TextView
+                    android:text="Nombre tarea:"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_column="0"
+                    android:id="@+id/lblNomT"
+                    android:layout_marginTop="6.5dp" />
+                <TextView
+                    android:text="nombre"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_column="2"
+                    android:id="@+id/txNomT"
+                    android:layout_marginLeft="14.0dp"
+                    android:layout_width="145.5dp"
+                    android:layout_marginTop="8.0dp" />
+            </TableRow>
+            <TableRow
+                android:id="@+id/tableRow2">
+                <TextView
+                    android:text="Tipo tarea:"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_column="0"
+                    android:id="@+id/lblTipoT"
+                    android:layout_marginTop="5.0dp" />
+                <TextView
+                    android:text="tipo"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_column="2"
+                    android:id="@+id/txTipoT"
+                    android:layout_marginLeft="16.0dp"
+                    android:layout_marginTop="3.5dp" />
+            </TableRow>
+            <TableRow
+                android:id="@+id/tableRow3">
+                <TextView
+                    android:text="Descripcion Tarea:"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_column="0"
+                    android:id="@+id/lblDescripcionT"
+                    android:layout_marginTop="5.0dp" />
+                <TextView
+                    android:text="descripcion"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_column="2"
+                    android:id="@+id/txDescripcionT"
+                    android:layout_marginLeft="15.5dp"
+                    android:layout_width="180.0dp"
+                    android:layout_height="39.0dp"
+                    android:layout_marginTop="2.5dp" />
+            </TableRow>
+            <TableRow
+                android:id="@+id/tableRow4">
+                <TextView
+                    android:text="Hora de Inicio de la Tarea:"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_column="0"
+                    android:id="@+id/lblHoraInicio" />
+                <TextView
+                    android:text="horainicio"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_column="2"
+                    android:id="@+id/txHoraInicio"
+                    android:layout_marginLeft="15.5dp"
+                    android:layout_width="124.5dp"
+                    android:layout_height="27.0dp" />
+            </TableRow>
+            <TableRow
+                android:id="@+id/tableRow5">
+                <TextView
+                    android:text="Hora de fin de la tarea:"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_column="0"
+                    android:id="@+id/lblHoraFin" />
+                <TextView
+                    android:text="horafin"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_column="2"
+                    android:id="@+id/txHoraFin"
+                    android:layout_marginLeft="15.5dp"
+                    android:layout_width="124.5dp"
+                    android:layout_height="27.0dp" />
+            </TableRow>
+        </TableLayout>
+        <TextView
+            android:text="Direcciones de la tarea:"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="199.5dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/lblDirecciones"
+            android:layout_marginTop="5.5dp"
+            android:layout_marginLeft="87.5dp" />
+        <ListView
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="match_parent"
+            android:layout_height="271.5dp"
+            android:id="@+id/listaDirecciones" />
+        <Button
+            android:text="VOLVER A ATRÁS"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnVolverAtras"
+            android:background="@android:color/holo_blue_dark" />
+    </LinearLayout>
+</ScrollView>

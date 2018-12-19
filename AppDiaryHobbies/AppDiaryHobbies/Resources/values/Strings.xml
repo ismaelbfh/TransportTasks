@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ApplicationName">TransportTasks</string>
+  <string name="main.txtTituloApp.text"><u>TRANSPORTASKS</u></string>
+  <string name="main.txtTituloRegistro.text"><u>REGÍSTRATE</u></string>
+  <string name="main.txtTituloLogueo.text"><u>LOGUÉATE</u></string>
+  <string-array name="tipos_array">
+    <item>Deportes</item>
+    <item>Ocio</item>
+    <item>Informatica</item>
+    <item>Escolar</item>
+    <item>Oficina</item>
+    <item>Juegos</item>
+    <item>Television</item>
+    <item>Transporte</item>
+    <item>Viaje</item>
+    <item>Limpieza</item>
+    <item>Cocina</item>
+    <item>Plantas</item>
+    <item>Otros</item>
+  </string-array>
+  
+  <string-array name="sectores_array">
+    <item>IT</item>
+    <item>Deportes</item>
+    <item>Cultura</item>
+    <item>Escolar</item>
+    <item>Videojuegos</item>
+    <item>Judicial</item>
+    <item>Transportes</item>
+    <item>Comercial</item>
+    <item>Energia</item>
+    <item>Banca</item>
+    <item>Farmaceutica</item>
+    <item>Textil</item>
+    <item>Construcion</item>
+    <item>Otros</item>
+  </string-array>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="AppDiaryHobbies.AppDiaryHobbies" android:versionCode="1" android:versionName="1.0" android:installLocation="preferExternal">
+  <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="23" />
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+  <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <application android:label="TransportTasks" android:icon="@drawable/icon" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
+    <activity android:label="Informes" android:name="md5744d5849d6a580a2010ab3c234620c55.ActivityConsultaInformes" />
+    <activity android:label="Logueo de Usuarios" android:name="md5744d5849d6a580a2010ab3c234620c55.ActivityLogueo" />
+    <activity android:label="Añadir Empresa" android:name="md5744d5849d6a580a2010ab3c234620c55.ActivityNuevaEmpresa" />
+    <activity android:label="Añadir Usuario" android:name="md5744d5849d6a580a2010ab3c234620c55.ActivityAnadirUsuario" />
+    <activity android:label="Modifica Usuario" android:name="md5744d5849d6a580a2010ab3c234620c55.ActivityModificarUsuario" />
+    <activity android:label="Añadir Cliente" android:name="md5744d5849d6a580a2010ab3c234620c55.ActivityAnadirCliente" />
+    <activity android:label="Registro de Usuarios" android:name="md5744d5849d6a580a2010ab3c234620c55.ActivityRegistro" />
+    <activity android:label="Inicio" android:name="md5744d5849d6a580a2010ab3c234620c55.ActivityTareas" />
+    <activity android:icon="@drawable/icon" android:label="TransportTasks" android:name="md5744d5849d6a580a2010ab3c234620c55.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="Añadir Direccion" android:name="md54c05a757ddd8e67ba4bcd8b75a26aac5.ActivityAnadirDireccion" />
+    <activity android:label="Añadir Nueva Tarea" android:name="md54c05a757ddd8e67ba4bcd8b75a26aac5.ActivityNuevaTarea" />
+    <activity android:label="Ver datos de la Tarea" android:name="md54c05a757ddd8e67ba4bcd8b75a26aac5.ActivityVerDatosTarea" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="AppDiaryHobbies.AppDiaryHobbies.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.AppDiaryHobbies.AppDiaryHobbies" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>

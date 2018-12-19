@@ -1,0 +1,57 @@
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\bin\Release\AppDiaryHobbies.dll
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\bin\Release\AppDiaryHobbies.pdb
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\bin\Release\AppDiaryHobbies.AppDiaryHobbies.apk
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\bin\Release\AppDiaryHobbies.AppDiaryHobbies-Signed.apk
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\bin\Release\MySql.Data.CF.dll
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\obj\Release\AppDiaryHobbies.csprojResolveAssemblyReference.cache
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\obj\Release\AppDiaryHobbies.dll
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\obj\Release\AppDiaryHobbies.pdb
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\obj\Release\android\bin\AppDiaryHobbies.AppDiaryHobbies.apk
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\obj\Release\res\layout\layoutregistro.xml
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\obj\Release\res\layout\layouttareasinicio.xml
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\obj\Release\res\layout\layoutlogueo.xml
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\obj\Release\res\layout\layoutmodalperfil.xml
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\obj\Release\res\layout\listtareasdesign.xml
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\obj\Release\res\layout\layoutmodalborrar.xml
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\obj\Release\res\layout\layoutnuevatarea.xml
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\obj\Release\res\layout\main.xml
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\obj\Release\res\values\strings.xml
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\obj\Release\res\drawable\icon.png
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\obj\Release\R.cs.flag
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\obj\Release\uploadflags.txt
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\bin\Release\AppDiaryHobbies.dll.mdb
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\obj\Release\android\assets\AppDiaryHobbies.dll.mdb
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\obj\Release\res\layout\layoutanadirdireccion.xml
+C:\Users\IsmaelBFH\Desktop\XAMARIN\AgendaIsmael\AppDiaryHobbies\AppDiaryHobbies\obj\Release\res\layout\layoutverdatostarea.xml
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\bin\Release\AppDiaryHobbies.dll
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\bin\Release\AppDiaryHobbies.pdb
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\bin\Release\AppDiaryHobbies.AppDiaryHobbies.apk
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\bin\Release\AppDiaryHobbies.AppDiaryHobbies-Signed.apk
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\bin\Release\MySql.Data.CF.dll
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\AppDiaryHobbies.csproj.CoreCompileInputs.cache
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\AppDiaryHobbies.dll
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\AppDiaryHobbies.pdb
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\android\bin\AppDiaryHobbies.AppDiaryHobbies.apk
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\res\layout\layoutregistro.xml
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\res\layout\layouttareasinicio.xml
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\res\layout\layoutlogueo.xml
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\res\layout\layoutmodalperfil.xml
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\res\layout\listtareasdesign.xml
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\res\layout\layoutmodalborrar.xml
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\res\layout\layoutnuevatarea.xml
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\res\layout\layoutanadirdireccion.xml
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\res\layout\layoutverdatostarea.xml
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\res\layout\layoutnuevaempresa.xml
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\res\layout\layoutanadirusuario.xml
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\res\layout\listusuariosdesign.xml
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\res\layout\layoutmodalborrarusuarios.xml
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\res\layout\layoutmodificarusuario.xml
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\res\layout\layoutagregarcliente.xml
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\res\layout\main.xml
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\res\values\strings.xml
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\res\drawable\icon.png
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\R.cs.flag
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\uploadflags.txt
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\AppDiaryHobbies.csprojResolveAssemblyReference.cache
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\bin\Release\AppDiaryHobbies.dll.mdb
+C:\Users\G2\Desktop\XAMARIN\PROYECTO PMDM DAM2 ISMAEL RODRIGUEZ TERRADILLOS\AppDiaryHobbies\AppDiaryHobbies\obj\Release\android\assets\AppDiaryHobbies.dll.mdb

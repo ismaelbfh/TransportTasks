@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_blue_dark">
+    <TextView
+        android:text="Esta tarea no está terminada, añada una dirección más si lo desea."
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtTituloAnadirDireccion"
+        android:layout_marginTop="0.0dp"
+        android:layout_marginBottom="1.0dp"
+        android:layout_marginLeft="15.5dp" />
+    <TableLayout
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tableLayout1">
+        <TableRow
+            android:id="@+id/tableRow1">
+            <TextView
+                android:text="Nombre de la tarea:"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_column="0"
+                android:id="@+id/lblNomTarea"
+                android:layout_marginTop="1.5dp"
+                android:layout_marginLeft="19.0dp"
+                android:layout_marginRight="0.0dp"
+                android:layout_width="188.5dp" />
+            <TextView
+                android:text="Small Text"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:layout_column="3"
+                android:id="@+id/txNomTarea"
+                android:layout_marginTop="5.0dp"
+                android:layout_marginLeft="10.0dp" />
+        </TableRow>
+        <TableRow
+            android:id="@+id/tableRow2">
+            <TextView
+                android:text="Tipo de la tarea:"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_column="0"
+                android:id="@+id/lblTipoTar"
+                android:layout_marginTop="18.0dp"
+                android:layout_marginLeft="19.0dp" />
+            <TextView
+                android:text="Small Text"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:layout_column="3"
+                android:id="@+id/txTipoTarea"
+                android:layout_marginTop="13.0dp"
+                android:layout_marginLeft="12.5dp" />
+        </TableRow>
+        <TableRow
+            android:id="@+id/tableRow3"
+            android:layout_height="46.0dp">
+            <TextView
+                android:text="Descripción de la tarea:"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_column="0"
+                android:id="@+id/lblDescTarea"
+                android:layout_marginTop="12.0dp"
+                android:layout_marginLeft="17.0dp"
+                android:layout_marginRight="13.0dp" />
+            <TextView
+                android:text="Small Text"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:layout_column="3"
+                android:id="@+id/txDescripcionTarea"
+                android:layout_marginTop="11.5dp"
+                android:layout_width="146.5dp"
+                android:layout_height="42.5dp"
+                android:layout_marginLeft="13.0dp" />
+        </TableRow>
+    </TableLayout>
+    <TextView
+        android:text="Direccion a añadir:"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/lblDireccionAnadir"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:text="Localizando..."
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:id="@+id/txDireccionAnadir"
+        android:layout_width="match_parent"
+        android:layout_height="47.5dp" />
+    <Button
+        android:text="VER EN EL MAPA"
+        android:layout_width="129.5dp"
+        android:layout_height="38.5dp"
+        android:id="@+id/btnVerMapaAnadirDir"
+        android:layout_marginLeft="128.5dp"
+        android:layout_marginTop="0.0dp"
+        android:background="@android:color/holo_blue_light" />
+    <TextView
+        android:text="Cliente:"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView14" />
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="38.5dp"
+        android:id="@+id/spClientesDireccion"
+        android:background="@android:color/holo_blue_light" />
+    <Button
+        android:text="AÑADIR CLIENTE"
+        android:layout_width="131.0dp"
+        android:layout_height="35.0dp"
+        android:id="@+id/btnAnadirClienteDir"
+        android:layout_marginLeft="127.0dp"
+        android:background="@android:color/holo_blue_light"
+        android:layout_marginTop="16.0dp" />
+    <TableLayout
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tableLayout3">
+        <TableRow
+            android:id="@+id/tableRow7">
+            <Button
+                android:text="AÑADIR DIRECCIÓN A LA TAREA"
+                android:id="@+id/btnAnadirDireccion"
+                android:background="@android:color/holo_blue_light"
+                android:layout_column="0"
+                android:layout_marginTop="10.0dp"
+                android:layout_marginLeft="14.5dp"
+                android:layout_height="40.0dp"
+                android:layout_width="147.0dp"
+                android:layout_marginRight="11.5dp" />
+            <Button
+                android:text="TERMINAR TAREA"
+                android:layout_column="2"
+                android:id="@+id/btnTerminarTarea"
+                android:layout_marginTop="17.0dp"
+                android:background="@android:color/holo_blue_light"
+                android:layout_height="31.5dp"
+                android:layout_width="133.5dp"
+                android:layout_marginLeft="45.0dp" />
+        </TableRow>
+        <TableRow
+            android:id="@+id/tableRow8">
+        </TableRow>
+        <TableRow
+            android:id="@+id/tableRow9">
+        </TableRow>
+    </TableLayout>
+</LinearLayout>

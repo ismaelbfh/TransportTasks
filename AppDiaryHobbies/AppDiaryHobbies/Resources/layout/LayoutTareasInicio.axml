@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:background="@android:color/holo_blue_light">
+        <TextView
+            android:text="Bienvenido user"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtBienvenido"
+            android:textSize="30dp"
+            android:layout_marginLeft="120dp"
+            android:layout_marginTop="10dp"
+            android:fontFamily="sans-serif-medium"
+            android:textStyle="bold" />
+        <ImageButton
+            android:src="@android:drawable/ic_menu_sort_by_size"
+            android:id="@+id/btnMuestraInformes"
+            android:layout_width="105.5dp"
+            android:layout_height="58.0dp"
+            android:layout_marginLeft="5.0dp" />
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tableLayout1"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="10dp"
+            android:minWidth="25px"
+            android:minHeight="25px">
+            <TableRow
+                android:id="@+id/tableRow1"
+                android:layout_height="67.0dp">
+                <ImageButton
+                    android:src="@android:drawable/ic_menu_set_as"
+                    android:layout_column="0"
+                    android:id="@+id/btnAnadirEmpresa" />
+                <ImageButton
+                    android:src="@android:drawable/ic_menu_myplaces"
+                    android:layout_column="1"
+                    android:id="@+id/btnAnadirUser" />
+                <ImageButton
+                    android:src="@android:drawable/ic_menu_add"
+                    android:layout_column="2"
+                    android:id="@+id/btnAnadirTarea"
+                    android:layout_marginLeft="0.0dp" />
+                <ImageButton
+                    android:src="@android:drawable/ic_menu_delete"
+                    android:layout_column="3"
+                    android:id="@+id/btnBorrarTarea" />
+                <ImageButton
+                    android:src="@android:drawable/ic_lock_lock"
+                    android:layout_column="4"
+                    android:id="@+id/btnCerrarSesion" />
+                <ImageButton
+                    android:src="@android:drawable/ic_menu_my_calendar"
+                    android:layout_column="5"
+                    android:id="@+id/btnPerfil" />
+            </TableRow>
+        </TableLayout>
+        <ListView
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="match_parent"
+            android:layout_height="386.0dp"
+            android:id="@+id/listaTareas" />
+    </LinearLayout>
+</ScrollView>

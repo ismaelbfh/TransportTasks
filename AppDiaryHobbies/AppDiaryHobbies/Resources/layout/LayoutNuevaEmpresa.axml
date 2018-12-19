@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_blue_light">
+    <ImageButton
+        android:src="@android:drawable/ic_menu_revert"
+        android:layout_width="77.5dp"
+        android:layout_height="59.0dp"
+        android:layout_marginLeft="0.5dp"
+        android:layout_marginTop="1.0dp"
+        android:id="@+id/btnAtrasEmpresa"
+        android:background="@android:color/holo_blue_dark" />
+    <TextView
+        android:text="REGISTRAR UNA NUEVA EMPRESA"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtTituloApp"
+        android:textSize="15dp"
+        android:layout_marginLeft="81.0dp"
+        android:layout_marginTop="10dp"
+        android:fontFamily="sans-serif-medium"
+        android:textStyle="bold"
+        android:textColor="@android:color/background_light" />
+    <TextView
+        android:text="Nombre de la Empresa:"
+        android:layout_marginTop="10dp"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView1" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtNombreEmpresa" />
+    <TextView
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:text="Función:" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtFuncion" />
+    <TextView
+        android:text="Ciudad:"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView4" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtCiudadEmpresa" />
+    <TextView
+        android:text="Telefono:"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView5" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtTelefonoEmpresa"
+        android:inputType="phone" />
+    <TextView
+        android:text="Sector:"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView6"
+        android:layout_marginBottom="13.0dp" />
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="41.5dp"
+        android:id="@+id/spSector"
+        android:layout_marginBottom="16.0dp"
+        android:background="@android:color/holo_blue_dark" />
+    <Button
+        android:text="REGISTRAR"
+        android:layout_width="163.5dp"
+        android:layout_height="39.0dp"
+        android:id="@+id/btnRegistrarEmpresa"
+        android:background="@android:color/holo_blue_dark"
+        android:layout_marginLeft="114.0dp"
+        android:layout_marginTop="5.5dp" />
+</LinearLayout>
